@@ -1,0 +1,22 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Bertolacci"
+    },
+    {
+      "id": 2,
+      "name": "Gasperini"
+    },
+    {
+      "id": 3,
+      "name": "Napoleone"
+    }
+  ],
+  "roles": [
+    "player",
+    "player",
+    "coach",
+    "scout"
+  ]
+}
